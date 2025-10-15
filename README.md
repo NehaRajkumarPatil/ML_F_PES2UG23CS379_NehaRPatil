@@ -125,5 +125,8 @@ This project implements a convolutional neural network (CNN) based solution to c
    ```bash
    git clone https://github.com/NehaRajkumarPatil/ML_F_PES2UG23CS379_NehaRPatil.git
    cd ML_F_PES2UG23CS379_NehaRPatil
+2. **Run the python code**
+
+    ```bash
    python steel_defects.py
 
