@@ -128,5 +128,5 @@ This project implements a convolutional neural network (CNN) based solution to c
 2. **Run the python code**
 
     ```bash
-   python steel_defects.py
+   python steel_defect.py
 
