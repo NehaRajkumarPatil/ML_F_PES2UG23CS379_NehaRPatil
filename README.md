@@ -116,8 +116,7 @@ This project implements a convolutional neural network (CNN) based solution to c
 
 ---
 
-**Project by**: Neha R. Patil  
-**Course / Code**: PES2UG23CS379  
+**Project by**: Neha R. Patil  and Nandani 
 
 ## 🚀 How to Run
 
